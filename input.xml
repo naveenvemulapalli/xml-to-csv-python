@@ -1,0 +1,34 @@
+<catalog>
+    <levelList>
+        <level>
+            <name>some1</name>
+            <code>001</code>
+            <attributes>
+                <attribute>
+                    <name>attName11</name>
+                    <value>attValue11</value>
+                </attribute>
+                <attribute>
+                    <name>attName12</name>
+                    <value>attValue12</value>
+                </attribute>
+            </attributes>
+        </level>
+    </levelList>
+    <levelList>
+        <level>
+            <name>some2</name>
+            <code>002</code>
+            <attributes>
+                <attribute>
+                    <name>attName21</name>
+                    <value>attValue21</value>
+                </attribute>
+                <attribute>
+                    <name>attName22</name>
+                    <value>attValue22</value>
+                </attribute>
+            </attributes>            
+        </level>
+    </levelList>
+</catalog>
